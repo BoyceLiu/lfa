@@ -47,7 +47,7 @@ vboxmanage modifyvm host --name h1
 vboxmanage import host.ova
 vboxmanage modifyvm host --name h2
 vboxmanage import host.ova
-vboxmanage modifyvm host --name h2
+vboxmanage modifyvm host --name h3
 
 vboxmanage hostonlyif create
 
